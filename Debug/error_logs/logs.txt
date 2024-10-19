@@ -1,0 +1,54 @@
+Aplicación iniciada: 23/09/2024 03:33:04 p. m.
+Aplicación iniciada: 23/09/2024 03:33:41 p. m.
+Aplicación iniciada: 23/09/2024 03:34:20 p. m.
+Aplicación iniciada: 23/09/2024 03:34:47 p. m.
+Aplicación iniciada: 23/09/2024 03:39:46 p. m.
+Aplicación iniciada: 23/09/2024 03:57:56 p. m.
+Aplicación iniciada: 23/09/2024 03:58:03 p. m.
+Aplicación iniciada: 25/09/2024 11:02:32 a. m.
+INFO: 25/09/2024 11:02:41 a. m. - Conexión con Arduino establecida en COM7 a 115200 baudios.
+ERROR: 25/09/2024 11:03:04 a. m. - Error al obtener el nombre del proceso por PID: No se está ejecutando ningún proceso con el id. 4432.
+ERROR: 25/09/2024 11:03:05 a. m. - Error al obtener el nombre del proceso por PID: No se está ejecutando ningún proceso con el id. 4432.
+ERROR: 25/09/2024 11:03:05 a. m. - Error al obtener el nombre del proceso por PID: No se está ejecutando ningún proceso con el id. 4432.
+ERROR: 25/09/2024 11:03:05 a. m. - Error al obtener el nombre del proceso por PID: No se está ejecutando ningún proceso con el id. 4432.
+ERROR: 25/09/2024 11:03:05 a. m. - Error al obtener el nombre del proceso por PID: No se está ejecutando ningún proceso con el id. 4432.
+ERROR: 25/09/2024 11:03:05 a. m. - Error al obtener el nombre del proceso por PID: No se está ejecutando ningún proceso con el id. 4432.
+ERROR: 25/09/2024 11:03:05 a. m. - Error al obtener el nombre del proceso por PID: No se está ejecutando ningún proceso con el id. 4432.
+ERROR: 25/09/2024 11:03:05 a. m. - Error al obtener el nombre del proceso por PID: No se está ejecutando ningún proceso con el id. 4432.
+ERROR: 25/09/2024 11:03:05 a. m. - Error al obtener el nombre del proceso por PID: No se está ejecutando ningún proceso con el id. 4432.
+ERROR: 25/09/2024 11:03:05 a. m. - Error al obtener el nombre del proceso por PID: No se está ejecutando ningún proceso con el id. 4432.
+ERROR: 25/09/2024 11:03:05 a. m. - Error al obtener el nombre del proceso por PID: No se está ejecutando ningún proceso con el id. 4432.
+ERROR: 25/09/2024 11:04:43 a. m. - Error de entrada/salida: El puerto 'COM7' no existe.
+ERROR: 25/09/2024 11:04:48 a. m. - Error de entrada/salida: El puerto 'COM7' no existe.
+Aplicación iniciada: 25/09/2024 11:04:56 a. m.
+INFO: 25/09/2024 11:05:03 a. m. - Conexión con Arduino establecida en COM8 a 115200 baudios.
+Aplicación iniciada: 29/09/2024 08:31:32 p. m.
+INFO: 29/09/2024 08:31:39 p. m. - Conexión con Arduino establecida en COM8 a 115200 baudios.
+Aplicación iniciada: 30/09/2024 04:40:55 p. m.
+INFO: 30/09/2024 04:41:21 p. m. - Conexión con Arduino establecida en COM1 a 115200 baudios.
+Aplicación iniciada: 30/09/2024 04:41:59 p. m.
+Aplicación iniciada: 30/09/2024 04:44:05 p. m.
+Aplicación iniciada: 30/09/2024 04:46:10 p. m.
+Aplicación iniciada: 30/09/2024 04:54:28 p. m.
+Aplicación iniciada: 03/10/2024 06:29:36 p. m.
+Aplicación iniciada: 03/10/2024 06:29:36 p. m.
+Aplicación iniciada: 03/10/2024 06:29:48 p. m.
+Aplicación iniciada: 03/10/2024 06:33:21 p. m.
+INFO: 03/10/2024 06:33:33 p. m. - Conexión con Arduino establecida en COM8 a 115200 baudios.
+Aplicación iniciada: 03/10/2024 06:36:23 p. m.
+INFO: 03/10/2024 06:36:40 p. m. - Conexión con Arduino establecida en COM8 a 115200 baudios.
+Aplicación iniciada: 03/10/2024 06:39:46 p. m.
+Aplicación iniciada: 03/10/2024 06:43:49 p. m.
+INFO: 03/10/2024 06:43:58 p. m. - Conexión con Arduino establecida en COM8 a 115200 baudios.
+Aplicación iniciada: 03/10/2024 06:45:38 p. m.
+INFO: 03/10/2024 06:45:49 p. m. - Conexión con Arduino establecida en COM8 a 115200 baudios.
+Aplicación iniciada: 03/10/2024 06:50:53 p. m.
+Aplicación iniciada: 03/10/2024 07:10:57 p. m.
+Aplicación iniciada: 03/10/2024 07:15:13 p. m.
+Aplicación iniciada: 03/10/2024 07:16:15 p. m.
+Aplicación iniciada: 04/10/2024 02:41:28 p. m.
+INFO: 04/10/2024 02:41:47 p. m. - Conexión con Arduino establecida en COM8 a 115200 baudios.
+Aplicación iniciada: 04/10/2024 04:16:41 p. m.
+INFO: 04/10/2024 04:16:50 p. m. - Conexión con Arduino establecida en COM8 a 115200 baudios.
+Aplicación iniciada: 18/10/2024 04:25:48 p. m.
+Aplicación iniciada: 19/10/2024 12:44:02 p. m.
